@@ -18,7 +18,7 @@ export default function TheDayIBrokeEverything() {
         </p>
 
         <p>
-          Lesson learned: **never skip testing** — even if the feature "looks small." 🙃
+          Lesson learned: **never skip testing** — even if the feature &quot;looks small.&quot; 🙃
         </p>
       </article>
     </main>
