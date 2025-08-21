@@ -13,16 +13,22 @@ export default function LearningTailwind() {
 
       <article className="prose prose-pink max-w-none">
         <p>
-          When I first heard about Tailwind CSS, I honestly thought it was just
-          another developer hype cycle. Utility-first CSS? A class for every
-          little thing? My brain said, “Yaar, yeh kya hai? Why would I ever write{" "}
-          <code>p-4</code> instead of just writing a CSS rule once and reusing
-          it?”
+          Sooo… I pushed to production without testing. 😅  
+          Yeah. Literally broke everything. Buttons weren’t working, layout was off, and the API I thought I set up properly? Completely ignored it.
         </p>
 
         <p>
-          Then I tried it. And… well, let’s just say I went from “meh” to “marry
-          me” in one afternoon.
+          My first instinct was to panic, but after 10 deep breaths (and one chai), I got to work. Rolled back the deploy, opened my VS Code, and hunted the bug like it stole my cookies.
+        </p>
+
+        <p>
+          My brain said, &quot;Yaar, yeh kya hai? Why would I ever write{" "}
+          <code>p-4</code> instead of just writing a CSS rule once and reusing it?&quot;
+        </p>
+
+        <p>
+          Then I tried it. And… well, let’s just say I went from &quot;meh&quot; to &quot;marry
+          me&quot; in one afternoon.
         </p>
 
         <h2>The Confusion Stage 🤯</h2>
@@ -30,8 +36,8 @@ export default function LearningTailwind() {
           My first Tailwind project looked like someone spilled alphabet soup all
           over my HTML. Classes like{" "}
           <code>bg-pink-200 p-4 rounded-xl shadow-md hover:scale-105</code> were
-          screaming at me, and I thought: “This can’t be real. This can’t be
-          maintainable.”
+          screaming at me, and I thought: &quot;This can’t be real. This can’t be
+          maintainable.&quot;
         </p>
         <p>
           But the funny thing is… it <em>was</em>. Instead of juggling five
@@ -76,8 +82,8 @@ export default function LearningTailwind() {
         </p>
 
         <blockquote>
-          “Once you start thinking in Tailwind, going back to writing traditional
-          CSS feels… slow.”
+          &quot;Once you start thinking in Tailwind, going back to writing traditional
+          CSS feels… slow.&quot;
         </blockquote>
 
         <p>
