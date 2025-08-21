@@ -60,7 +60,7 @@ export default function NextjsRoutingMadeEasy() {
         <p>
           Whatever you put in the square brackets becomes your dynamic parameter.  
           Visit <code>/blog/hello-world</code>, and Next.js passes{" "}
-          <code>slug = "hello-world"</code> to your page.
+          <code>slug = &quot;hello-world&quot;</code> to your page.
         </p>
 
         <h2>Fetching Data per Route 🪄</h2>
@@ -72,8 +72,8 @@ export default function NextjsRoutingMadeEasy() {
         </p>
 
         <blockquote>
-          “Once you understand dynamic routes, the whole app feels like LEGO
-          blocks you can snap together.”
+          &quot;Once you understand dynamic routes, the whole app feels like LEGO
+          blocks you can snap together.&quot;
         </blockquote>
 
         <h2>Why I’m Not Scared Anymore 😎</h2>
